@@ -14,8 +14,8 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Industrialists",
 		"movement": 4,
-		"uniques": ["Can instantly construct a [Manufactory] improvement <by consuming this unit>",],
+		"uniques": ["Can instantly construct a [Manufactory] improvement <by consuming this unit>"],
 		"promotions": ["Ignore terrain cost"],
-		"cost": 300
+		"cost": 350
 	},
 ]
