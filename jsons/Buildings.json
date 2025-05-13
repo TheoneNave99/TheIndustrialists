@@ -1,17 +1,5 @@
 [
-	{
-		"name": "Proto-Factory",
-		"uniqueTo": "Industrialists",
-		"cost": 100,
-		"production": 2,
-		"percentStatBonus": {"production": 10},
-		"specialistSlots": {"Engineer": 1},
-		"uniques": ["[+2 Production] from [Manufactory] tiles [in this city]", "uniques": ["[+2 Gold] from [Manufactory] tiles [in this city]",
-		"requiredBuilding": "Workshop",
-		"maintenance": 1,
-		"hurryCostModifier": 0,
-		"requiredTech": "Metal Casting"
-	},
+
 	{
 		"name": "Agri-Factory",
 		"uniqueTo": "Industrialists",
@@ -34,6 +22,17 @@
 		"uniques": ["[+2 Production] from [Iron] tiles [in this city]", "[+2 Production] from [Manufactory] tiles [in this city]",
 			"[+2 Gold] from [Iron] tiles [in this city]", "[+2 Gold] from [Manufactory] tiles [in this city]",
 			"[+15]% Production when constructing [Military] units [in this city]"],
+		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Proto-Factory",
+		"uniqueTo": "Industrialists",
+		"production": 4,
+		"gold": 4,
+		"maintenance": 2,
+		"cost": 150
+		"specialistSlots": {"Engineer": 1},
+		"uniques": ["[+2 Production] from [Manufactory] tiles [in this city]", "[+2 Gold] from [Manufactory] tiles [in this city]"],
 		"requiredTech": "Industrialization"
 	},
 ]
