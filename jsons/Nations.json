@@ -19,7 +19,7 @@
 		"innerColor": [37, 43, 33],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Heartbeat of Steam",
-		"uniques": ["[+2 Gold, 1 Production] from every [Road]", "[+4 Gold, 2 Production] from every [Railroad]"],
+		"uniques": ["[+1 Gold, 1 Production] from every [Road]", "[+2 Gold, 2 Production] from every [Railroad]"],
 			    "[+1 Food, 1 Production] from every [Farm]", "[+1 Gold, 1 Production] from every [Mine]"
 		"cities": ["Ruhr Valley","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
