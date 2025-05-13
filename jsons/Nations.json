@@ -1,38 +1,33 @@
-[
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+[{
+		"name": "Industrialists",
+		"leaderName": "Otto von Bismarck",
+		"adjective": ["Corporate"],
 		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"personality": "Otto von Bismarck",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+        "startIntroPart1": "All hail to Otto von Bismarck, first chancellor of Germany and its empire! During the ancient era, Germany was a land fragmented in several tribes but already showed great promise as the Roman Empire itself struggled to bend the Germans to its will. Germany, as one nation, was slowly built on the ruins of the Holy Roman Empire, and waited 1871 to be finally unified after the glorious victory on France and Napoleon III. The German people are creative, intelligent, industrious and proven to be talented warriors through history. Despite great catastrophes and failures in the first half of the 20th century, Germany can always rely on its people will and strength to be among the greatest and powerful nations in the world.",
+        "startIntroPart2": "Great Prince Bismarck, glory and power are at the heart of the German nation. Your people are bright, and lend you their iron will to lead Germany once again. Will your new empire shine through the ages of history?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+        "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+		"attacked": "Corrupted villain! We will bring you into the ground!",
+		"defeated": "Germany has been destroyed. I weep for the future generations.",
+		"introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [179, 178, 184],
+		"innerColor": [37, 43, 33],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Heartbeat of Steam",
+		"uniques": ["[+2 Gold, 1 Production] from every [Road]", "[+4 Gold, 2 Production] from every [Railroad]"],
+			    "[+1 Food, 1 Production] from every [Farm]", "[+1 Gold, 1 Production] from every [Mine]"
+		"cities": ["Ruhr Valley","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
+			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
+			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
+			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
+			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
+			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
+
 ]
