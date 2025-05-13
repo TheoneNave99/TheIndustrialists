@@ -6,6 +6,7 @@
 		"production": 2,
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 1},
+		"uniques": ["[+2 Production] from [Manufactory] tiles [in this city]", "uniques": ["[+2 Gold] from [Manufactory] tiles [in this city]",
 		"requiredBuilding": "Workshop",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
@@ -20,7 +21,7 @@
 		"cost": 100
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]",
 			"[+1 Gold] from [Farm] tiles [in this city]",
-			"[+2 Food] from [Wheat] tiles [in this city]"],
+			"[+2 Food] from [Manufactory] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
 	},
 	{
@@ -30,9 +31,9 @@
 		"maintenance": 2,
 		"cost": 150
 		"specialistSlots": {"Engineer": 1},
-		"uniques": ["[+2 Production] from [Iron] tiles [in this city]",
-			"[+2 Gold] from [Iron] tiles [in this city]",
-			"[+20]% Production when constructing [Military] units [in this city]"],
+		"uniques": ["[+2 Production] from [Iron] tiles [in this city]", "[+2 Production] from [Manufactory] tiles [in this city]",
+			"[+2 Gold] from [Iron] tiles [in this city]", "[+2 Gold] from [Manufactory] tiles [in this city]",
+			"[+15]% Production when constructing [Military] units [in this city]"],
 		"requiredTech": "Industrialization"
 	},
 ]
